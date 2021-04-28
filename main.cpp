@@ -1,9 +1,3 @@
-/**
-This is base code for Project 2 for CST238 Fall 2020
-It does not need to be turned in, but you can modify it to 
-test your code. Only uncomment code when you are ready to
-implement the appropriate methods
-*/
 #include <iostream>
 #include "LinkedList.h"
 using namespace std;
